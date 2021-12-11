@@ -1,0 +1,29 @@
+* {  
+    margin: 0px;
+    padding: 0px;
+    font-family: serif;
+}
+.User-form {
+    width: 450px;
+    margin: 100px auto 0px;
+}
+
+.User-form input {
+    display: block;
+    border: 1px sold #333;
+    padding: 10px;
+    margin: 5px 0px;
+    width: 100%;
+    color: #000;
+    box-sizing: border-box;
+}
+
+.User-form input:last-child {
+    background-color: #000;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-family: Arial;
+    cursor: pointer;
+}
+
